@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#yellow{
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.red{
+    background-color: red;
+}
+#red{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+.blue{
+    background-color: blue;
+}
+#blue{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    border-radius: 50%;
+}
+
+.black{
+    background-color: black;
+}
+
+#black{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50%;
+}
